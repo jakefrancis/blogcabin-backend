@@ -17,7 +17,7 @@ New user accounts can be created and passwords are stored in the database as a p
 
 User authentification has been implemented via JSON web tokens. 
 
-The token is automatically saved to the browser via local storage, to allow users to use the application with out having to log in again.
+The token is automatically saved to the browser via local storage, to allow users to use the application without having to log in again.
 
 ## Technology Used
 
