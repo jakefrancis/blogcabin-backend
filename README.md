@@ -35,9 +35,6 @@ username: default
 
 password: default
 
-
-[Live Site](http://blogcabin.hellojake.com)
-
 Please allow up to 30s for application to spin up.
 
 [Frontend Code](https://github.com/jakefrancis/blogcabin-frontend)
